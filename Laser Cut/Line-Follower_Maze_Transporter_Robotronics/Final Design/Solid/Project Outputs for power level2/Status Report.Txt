@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:17:31 AM On 1/28/2020
+
+Output: POWER LEVEL2
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [power level2.PcbDoc]
+   Generated File[power level2.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:17:32 AM On 1/28/2020

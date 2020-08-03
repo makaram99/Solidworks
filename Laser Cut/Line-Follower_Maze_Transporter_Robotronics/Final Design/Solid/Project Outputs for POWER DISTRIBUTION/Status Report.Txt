@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:32:43 AM On 1/28/2020
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [power distribution.PcbDoc]
+   Generated File[power distribution.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:32:44 AM On 1/28/2020
