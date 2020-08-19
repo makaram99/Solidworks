@@ -1,39 +1,5138 @@
- any such expiration, you must promptly uninstall all copies of the Software.\par
-10.\tab\ul Academic Site License (\ldblquote ASL\rdblquote )\ulnone . The following terms apply to the ASL. \par
-A.\tab The quote you obtained from NI or its authorized affiliate regarding the ASL (\ldblquote ASL Documentation\rdblquote ) is incorporated into this Agreement. In the event of a conflict between the terms and conditions of this Agreement and the ASL Documentation, the terms and conditions of this Agreement will control.\par
-B.\tab\ul Term\ulnone . The ASL will be effective the date of your order (\ldblquote ASL Effective Date\rdblquote ). Unless otherwise specified in the ASL Documentation, licenses under the ASL are perpetual. If you have purchased an ASL with term licenses, the initial term of the ASL will start on the ASL Effective Date and continue for a period of one (1) year, unless a longer term is specified in the ASL Documentation. \par
-C.\tab Software under the ASL may be used by teachers, researchers, and students in accordance with the terms of the license types set forth in this Addendum E and the ASL Documentation and only on those computers located at the physical location to which NI delivers the Software unless otherwise specified in the ASL Documentation.  \par
-\tab\cf4 Unless otherwise specified in the ASL Documentation, ASL coverage boundaries are as follows.\par
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1015
+  9
+$ACADMAINTVER
+ 70
+     6
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+-67.0
+ 20
+-5.0
+ 30
+0.0
+  9
+$EXTMAX
+ 10
+67.0
+ 20
+5.0
+ 30
+0.0
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$ORTHOMODE
+ 70
+     0
+  9
+$REGENMODE
+ 70
+     1
+  9
+$FILLMODE
+ 70
+     1
+  9
+$QTEXTMODE
+ 70
+     0
+  9
+$MIRRTEXT
+ 70
+     1
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$ATTMODE
+ 70
+     1
+  9
+$TEXTSIZE
+ 40
+3.5
+  9
+$TRACEWID
+ 40
+1.0
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+0
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+   256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+     0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+3.302
+  9
+$DIMEXO
+ 40
+1.0
+  9
+$DIMDLI
+ 40
+3.75
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+1.0
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+3.5
+  9
+$DIMCEN
+ 40
+2.5
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+     0
+  9
+$DIMLIM
+ 70
+     0
+  9
+$DIMTIH
+ 70
+     1
+  9
+$DIMTOH
+ 70
+     1
+  9
+$DIMSE1
+ 70
+     0
+  9
+$DIMSE2
+ 70
+     0
+  9
+$DIMTAD
+ 70
+     1
+  9
+$DIMZIN
+ 70
+     1
+  9
+$DIMBLK
+  1
 
-\pard\nowidctlpar\li360\sb100\sa240\qj\tx810\tx1278 Small: Software in the ASL is accessible to all computers in a department or school within an Academic Institution\par
-Medium: Software in the ASL is accessible to all computers in a faculty or college within an Academic Institution \par
-Large: Software in the ASL is accessible on all computers in a specific university campus within an Academic Institution \par
-The location at which you are permitted to use the Software is the \ldblquote ASL Location\rdblquote .\par
+  9
+$DIMASO
+ 70
+     1
+  9
+$DIMSHO
+ 70
+     1
+  9
+$DIMPOST
+  1
 
-\pard\nowidctlpar\fi-360\li360\sb100\sa240\qj\tx810\tx1278\tab ASL licenses are for teaching, research, or teaching and research, as specified in the ASL Documentation. \cf0\par
-D.\tab You must designate an individual in your organization who is responsible for distributing and overseeing the installation and use of the Software, including use of any master installation media and any approved volume license manager, ("Software Administrator") for each ASL Location. You must promptly notify NI in writing of any changes to a Software Administrator. NI will deliver the master installation for the Software to the Software Administrator for internal installation and use by your teachers, researchers, and students, as appropriate. Software documentation is provided in electronic form only and comes with the master installation for the Software.\par
-E.\tab\ul Software Services\ulnone . If Software Services have been purchased for or are provided with the ASL, NI will provide your Software Administrator a master copy of all upgrades after the applicable commercial release date. All services will be provided in accordance with NI's then current standard software maintenance and support policies. NI reserves the right to restrict Software Services to the then most current version of the Software that is commercially available. You understand that NI may not make available Software Services for all Software available under the ASL. Software Services will be described in ASL Documentation.   \par
-\tab Software Services are included with ASL with term licenses. Perpetual licenses under an ASL come with one (1) year of Software Services; Software Services for perpetual licenses under an ASL must be purchased separately after the first year.  Software Services shall be effective for the period specified in ASL Documentation.  \par
-\tab Software Services for the ASL may include student install option licenses, as indicated in the ASL Documentation. \par
-F.\tab You acknowledge and agree that in no event may your use of the Software under the ASL exceed the maximum number of licenses set forth in the ASL Documentation or otherwise exceed the boundaries set forth in the ASL Documentation.\par
+  9
+$DIMAPOST
+  1
 
-\pard\nowidctlpar\sb100\sa240\qc 11.\tab\ul Transfer\ulnone . Except for academic research licenses, academic licenses are nontransferable and you may not, without the prior written consent of NI or its authorized affiliate, distribute or otherwise provide the Software to any third party or to any of your sites or facilities not expressly identified in the applicable documents from NI. The Academic Institution may transfer an academic research only ASL to the researcher to whom the license originally was assigned, provided that (i) the Academic Institution notifies NI in writing of such transfer, including the name and new location of the researcher; (ii) the researcher accepts the terms and conditions of this Agreement; and (iii) after such transfer the Academic Institution must stop immediately the use of software under the transferred academic research only ASL.\b\par
+  9
+$DIMALT
+ 70
+     0
+  9
+$DIMALTD
+ 70
+     3
+  9
+$DIMALTF
+ 40
+0.0393700787
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+     1
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+     0
+  9
+$DIMSOXD
+ 70
+     0
+  9
+$DIMSAH
+ 70
+     0
+  9
+$DIMBLK1
+  1
 
-\pard\nowidctlpar\fi-360\li720\sb100\sa240\qc\fs24 ADDENDUM F \endash  \ul Product-Specific Provisions\ulnone\b0\par
+  9
+$DIMBLK2
+  1
 
-\pard\nowidctlpar\fi-360\li360\sb100\sa240\qj\tx426\ul\fs18 TestStand Development System License,\par
-TestStand Custom Sequence Editor License\par
+  9
+$DIMSTYLE
+  2
+ISO-25
+  9
+$DIMCLRD
+ 70
+     0
+  9
+$DIMCLRE
+ 70
+     0
+  9
+$DIMCLRT
+ 70
+     0
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+1.524
+  9
+$DIMJUST
+ 70
+     0
+  9
+$DIMSD1
+ 70
+     0
+  9
+$DIMSD2
+ 70
+     0
+  9
+$DIMTOLJ
+ 70
+     0
+  9
+$DIMTZIN
+ 70
+     1
+  9
+$DIMALTZ
+ 70
+     0
+  9
+$DIMALTTZ
+ 70
+     0
+  9
+$DIMUPT
+ 70
+     0
+  9
+$DIMDEC
+ 70
+     2
+  9
+$DIMTDEC
+ 70
+     2
+  9
+$DIMALTU
+ 70
+     2
+  9
+$DIMALTTD
+ 70
+     3
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+     0
+  9
+$DIMADEC
+ 70
+     2
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+     0
+  9
+$DIMDSEP
+ 70
+    44
+  9
+$DIMATFIT
+ 70
+     3
+  9
+$DIMFRAC
+ 70
+     0
+  9
+$DIMLDRBLK
+  1
 
-\pard\nowidctlpar\sb100\sa240\qj\ulnone If you have acquired a computer-based NI TestStand Development System License or NI TestStand Custom Sequence Editor License, you may not remotely access the Software. If you have acquired a named user NI TestStand Development System License or NI TestStand Custom Sequence Editor License, only the then-current Named User may remotely access the Software. \par
-\ul Measurement Studio\par
-\ulnone Any application created with Measurement Studio Software that uses any Measurement Studio controls in a "design time" context is not an Authorized Application.\par
+  9
+$DIMLUNIT
+ 70
+     2
+  9
+$DIMLWD
+ 70
+    -2
+  9
+$DIMLWE
+ 70
+    -2
+  9
+$DIMTMOVE
+ 70
+     0
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     2
+  9
+$SKETCHINC
+ 40
+1.0
+  9
+$FILLETRAD
+ 40
+10.0
+  9
+$AUNITS
+ 70
+     0
+  9
+$AUPREC
+ 70
+     2
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+     0
+  9
+$CHAMFERA
+ 40
+0.0
+  9
+$CHAMFERB
+ 40
+0.0
+  9
+$CHAMFERC
+ 40
+0.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+2458909.203605521
+  9
+$TDUCREATE
+ 40
+2458909.120272188
+  9
+$TDUPDATE
+ 40
+2458909.203624583
+  9
+$TDUUPDATE
+ 40
+2458909.12029125
+  9
+$TDINDWG
+ 40
+0.0000000116
+  9
+$TDUSRTIMER
+ 40
+0.0000000116
+  9
+$USRTIMER
+ 70
+     1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+     0
+  9
+$PDMODE
+ 70
+     0
+  9
+$PDSIZE
+ 40
+-1.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+     0
+  9
+$SPLINETYPE
+ 70
+     6
+  9
+$SPLINESEGS
+ 70
+     8
+  9
+$HANDSEED
+  5
+EB
+  9
+$SURFTAB1
+ 70
+     6
+  9
+$SURFTAB2
+ 70
+     6
+  9
+$SURFTYPE
+ 70
+     6
+  9
+$SURFU
+ 70
+     6
+  9
+$SURFV
+ 70
+     6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+     0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+     0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+     0
+  9
+$USERI2
+ 70
+     0
+  9
+$USERI3
+ 70
+     0
+  9
+$USERI4
+ 70
+     0
+  9
+$USERI5
+ 70
+     0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+     1
+  9
+$SHADEDGE
+ 70
+     3
+  9
+$SHADEDIF
+ 70
+    70
+  9
+$TILEMODE
+ 70
+     1
+  9
+$MAXACTVP
+ 70
+    64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+     0
+  9
+$PEXTMIN
+ 10
+1.0000000000E+20
+ 20
+1.0000000000E+20
+ 30
+1.0000000000E+20
+  9
+$PEXTMAX
+ 10
+-1.0000000000E+20
+ 20
+-1.0000000000E+20
+ 30
+-1.0000000000E+20
+  9
+$PLIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$PLIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$UNITMODE
+ 70
+     0
+  9
+$VISRETAIN
+ 70
+     1
+  9
+$PLINEGEN
+ 70
+     0
+  9
+$PSLTSCALE
+ 70
+     1
+  9
+$TREEDEPTH
+ 70
+  3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+     0
+  9
+$CMLSCALE
+ 40
+20.0
+  9
+$PROXYGRAPHICS
+ 70
+     1
+  9
+$MEASUREMENT
+ 70
+     1
+  9
+$CELWEIGHT
+370
+    -1
+  9
+$ENDCAPS
+280
+     0
+  9
+$JOINSTYLE
+280
+     0
+  9
+$LWDISPLAY
+290
+     1
+  9
+$INSUNITS
+ 70
+     4
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+     1
+  9
+$CEPSNTYPE
+380
+     0
+  9
+$PSTYLEMODE
+290
+     1
+  9
+$FINGERPRINTGUID
+  2
+{7FD1CA96-A091-4410-8567-5110D3623943}
+  9
+$VERSIONGUID
+  2
+{FAEB1C32-E019-11D5-929B-00C0DF256EC4}
+  9
+$EXTNAMES
+290
+     1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+ObjectDBX Classes
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+VISUALSTYLE
+  2
+AcDbVisualStyle
+  3
+ObjectDBX Classes
+ 90
+     4095
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+MATERIAL
+  2
+AcDbMaterial
+  3
+ObjectDBX Classes
+ 90
+     1153
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+SCALE
+  2
+AcDbScale
+  3
+ObjectDBX Classes
+ 90
+     1153
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+TABLESTYLE
+  2
+AcDbTableStyle
+  3
+ObjectDBX Classes
+ 90
+     4095
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+MLEADERSTYLE
+  2
+AcDbMLeaderStyle
+  3
+ACDB_MLEADERSTYLE_CLASS
+ 90
+     4095
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+SUN
+  2
+AcDbSun
+  3
+SCENEOE
+ 90
+     1153
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+ObjectDBX Classes
+ 90
+        0
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+ObjectDBX Classes
+ 90
+        0
+280
+     0
+281
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+VPORT
+  5
+29
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+0.0
+ 22
+0.0
+ 13
+0.0
+ 23
+0.0
+ 14
+10.0
+ 24
+10.0
+ 15
+10.0
+ 25
+10.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+10.2
+ 41
+13.4
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+     0
+ 72
+   100
+ 73
+     1
+ 74
+     3
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
+     0
+281
+     0
+ 65
+     1
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+     6
+  0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+     0
+  3
+Solid line
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+6E
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+HIDDEN
+ 70
+     0
+  3
+Hidden __ __ __ __ __ __ __ __ __ __ __ __ __ __
+ 72
+    65
+ 73
+     2
+ 40
+1.905
+ 49
+1.27
+ 74
+     0
+ 49
+-0.635
+ 74
+     0
+  0
+LTYPE
+  5
+6F
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+PHANTOM
+ 70
+     0
+  3
+Phantom ______  __  __  ______  __  __  ______
+ 72
+    65
+ 73
+     6
+ 40
+12.7
+ 49
+6.35
+ 74
+     0
+ 49
+-1.27
+ 74
+     0
+ 49
+1.27
+ 74
+     0
+ 49
+-1.27
+ 74
+     0
+ 49
+1.27
+ 74
+     0
+ 49
+-1.27
+ 74
+     0
+  0
+LTYPE
+  5
+70
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTER
+ 70
+     0
+  3
+Center ____ _ ____ _ ____ _ ____ _ ____ _ ____
+ 72
+    65
+ 73
+     4
+ 40
+10.16
+ 49
+6.35
+ 74
+     0
+ 49
+-1.27
+ 74
+     0
+ 49
+1.27
+ 74
+     0
+ 49
+-1.27
+ 74
+     0
+  0
+LTYPE
+  5
+71
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTERX2
+ 70
+     0
+  3
+Center (2x) ________  __  ________  __  _____
+ 72
+    65
+ 73
+     4
+ 40
+20.32
+ 49
+12.7
+ 74
+     0
+ 49
+-2.54
+ 74
+     0
+ 49
+2.54
+ 74
+     0
+ 49
+-2.54
+ 74
+     0
+  0
+LTYPE
+  5
+72
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOT2
+ 70
+     0
+  3
+Dot (.5x) ........................................
+ 72
+    65
+ 73
+     2
+ 40
+0.635
+ 49
+0.0
+ 74
+     0
+ 49
+-0.635
+ 74
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+LAYER
+  5
+10
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+STYLE
+  5
+11
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+3.5
+  3
+txt
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+APPID
+  5
+12
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+100
+AcDbDimStyleTable
+  0
+DIMSTYLE
+105
+27
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+ISO-25
+ 70
+     0
+ 41
+2.5
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 73
+     0
+ 74
+     0
+ 77
+     1
+ 78
+     8
+140
+2.5
+141
+2.5
+143
+0.0393700787
+147
+0.625
+171
+     3
+172
+     1
+178
+     0
+271
+     2
+272
+     2
+274
+     3
+278
+    44
+283
+     0
+284
+     8
+340
+11
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+BLOCK_RECORD
+  5
+1F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+22
+  0
+BLOCK_RECORD
+  5
+1B
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+1E
+  0
+BLOCK_RECORD
+  5
+23
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space0
+340
+26
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+21
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1C
+330
+1B
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+1D
+330
+1B
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+24
+330
+23
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space0
+  1
+
+  0
+ENDBLK
+  5
+25
+330
+23
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LINE
+  5
+AF
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-65.0
+ 20
+2.5
+ 30
+0.0
+ 11
+-67.0
+ 21
+2.5
+ 31
+0.0
+  0
+LINE
+  5
+B0
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-65.0
+ 20
+5.0
+ 30
+0.0
+ 11
+-65.0
+ 21
+2.5
+ 31
+0.0
+  0
+LINE
+  5
+B1
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-55.0
+ 20
+5.0
+ 30
+0.0
+ 11
+-65.0
+ 21
+5.0
+ 31
+0.0
+  0
+LINE
+  5
+B2
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-55.0
+ 20
+2.5
+ 30
+0.0
+ 11
+-55.0
+ 21
+5.0
+ 31
+0.0
+  0
+LINE
+  5
+B3
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-45.0
+ 20
+2.5
+ 30
+0.0
+ 11
+-55.0
+ 21
+2.5
+ 31
+0.0
+  0
+LINE
+  5
+B4
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-45.0
+ 20
+5.0
+ 30
+0.0
+ 11
+-45.0
+ 21
+2.5
+ 31
+0.0
+  0
+LINE
+  5
+B5
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-35.0
+ 20
+5.0
+ 30
+0.0
+ 11
+-45.0
+ 21
+5.0
+ 31
+0.0
+  0
+LINE
+  5
+B6
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-35.0
+ 20
+2.5
+ 30
+0.0
+ 11
+-35.0
+ 21
+5.0
+ 31
+0.0
+  0
+LINE
+  5
+B7
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-25.0
+ 20
+2.5
+ 30
+0.0
+ 11
+-35.0
+ 21
+2.5
+ 31
+0.0
+  0
+LINE
+  5
+B8
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-25.0
+ 20
+5.0
+ 30
+0.0
+ 11
+-25.0
+ 21
+2.5
+ 31
+0.0
+  0
+LINE
+  5
+B9
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-15.0
+ 20
+5.0
+ 30
+0.0
+ 11
+-25.0
+ 21
+5.0
+ 31
+0.0
+  0
+LINE
+  5
+BA
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-15.0
+ 20
+2.5
+ 30
+0.0
+ 11
+-15.0
+ 21
+5.0
+ 31
+0.0
+  0
+LINE
+  5
+BB
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-5.0
+ 20
+2.5
+ 30
+0.0
+ 11
+-15.0
+ 21
+2.5
+ 31
+0.0
+  0
+LINE
+  5
+BC
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-5.0
+ 20
+5.0
+ 30
+0.0
+ 11
+-5.0
+ 21
+2.5
+ 31
+0.0
+  0
+LINE
+  5
+BD
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+5.0
+ 20
+5.0
+ 30
+0.0
+ 11
+-5.0
+ 21
+5.0
+ 31
+0.0
+  0
+LINE
+  5
+BE
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+5.0
+ 20
+2.5
+ 30
+0.0
+ 11
+5.0
+ 21
+5.0
+ 31
+0.0
+  0
+LINE
+  5
+BF
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+15.0
+ 20
+2.5
+ 30
+0.0
+ 11
+5.0
+ 21
+2.5
+ 31
+0.0
+  0
+LINE
+  5
+C0
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+15.0
+ 20
+5.0
+ 30
+0.0
+ 11
+15.0
+ 21
+2.5
+ 31
+0.0
+  0
+LINE
+  5
+C1
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+25.0
+ 20
+5.0
+ 30
+0.0
+ 11
+15.0
+ 21
+5.0
+ 31
+0.0
+  0
+LINE
+  5
+C2
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+25.0
+ 20
+2.5
+ 30
+0.0
+ 11
+25.0
+ 21
+5.0
+ 31
+0.0
+  0
+LINE
+  5
+C3
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+35.0
+ 20
+2.5
+ 30
+0.0
+ 11
+25.0
+ 21
+2.5
+ 31
+0.0
+  0
+LINE
+  5
+C4
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+35.0
+ 20
+5.0
+ 30
+0.0
+ 11
+35.0
+ 21
+2.5
+ 31
+0.0
+  0
+LINE
+  5
+C5
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+45.0
+ 20
+5.0
+ 30
+0.0
+ 11
+35.0
+ 21
+5.0
+ 31
+0.0
+  0
+LINE
+  5
+C6
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+45.0
+ 20
+2.5
+ 30
+0.0
+ 11
+45.0
+ 21
+5.0
+ 31
+0.0
+  0
+LINE
+  5
+C7
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+55.0
+ 20
+2.5
+ 30
+0.0
+ 11
+45.0
+ 21
+2.5
+ 31
+0.0
+  0
+LINE
+  5
+C8
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+55.0
+ 20
+5.0
+ 30
+0.0
+ 11
+55.0
+ 21
+2.5
+ 31
+0.0
+  0
+LINE
+  5
+C9
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+65.0
+ 20
+5.0
+ 30
+0.0
+ 11
+55.0
+ 21
+5.0
+ 31
+0.0
+  0
+LINE
+  5
+CA
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+65.0
+ 20
+2.5
+ 30
+0.0
+ 11
+65.0
+ 21
+5.0
+ 31
+0.0
+  0
+LINE
+  5
+CB
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+65.0
+ 20
+-2.5
+ 30
+0.0
+ 11
+67.0
+ 21
+-2.5
+ 31
+0.0
+  0
+LINE
+  5
+CC
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+65.0
+ 20
+-5.0
+ 30
+0.0
+ 11
+65.0
+ 21
+-2.5
+ 31
+0.0
+  0
+LINE
+  5
+CD
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+55.0
+ 20
+-5.0
+ 30
+0.0
+ 11
+65.0
+ 21
+-5.0
+ 31
+0.0
+  0
+LINE
+  5
+CE
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+55.0
+ 20
+-2.5
+ 30
+0.0
+ 11
+55.0
+ 21
+-5.0
+ 31
+0.0
+  0
+LINE
+  5
+CF
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+45.0
+ 20
+-2.5
+ 30
+0.0
+ 11
+55.0
+ 21
+-2.5
+ 31
+0.0
+  0
+LINE
+  5
+D0
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+45.0
+ 20
+-5.0
+ 30
+0.0
+ 11
+45.0
+ 21
+-2.5
+ 31
+0.0
+  0
+LINE
+  5
+D1
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+35.0
+ 20
+-5.0
+ 30
+0.0
+ 11
+45.0
+ 21
+-5.0
+ 31
+0.0
+  0
+LINE
+  5
+D2
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+35.0
+ 20
+-2.5
+ 30
+0.0
+ 11
+35.0
+ 21
+-5.0
+ 31
+0.0
+  0
+LINE
+  5
+D3
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+25.0
+ 20
+-2.5
+ 30
+0.0
+ 11
+35.0
+ 21
+-2.5
+ 31
+0.0
+  0
+LINE
+  5
+D4
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+25.0
+ 20
+-5.0
+ 30
+0.0
+ 11
+25.0
+ 21
+-2.5
+ 31
+0.0
+  0
+LINE
+  5
+D5
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+15.0
+ 20
+-5.0
+ 30
+0.0
+ 11
+25.0
+ 21
+-5.0
+ 31
+0.0
+  0
+LINE
+  5
+D6
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+15.0
+ 20
+-2.5
+ 30
+0.0
+ 11
+15.0
+ 21
+-5.0
+ 31
+0.0
+  0
+LINE
+  5
+D7
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+5.0
+ 20
+-2.5
+ 30
+0.0
+ 11
+15.0
+ 21
+-2.5
+ 31
+0.0
+  0
+LINE
+  5
+D8
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+5.0
+ 20
+-5.0
+ 30
+0.0
+ 11
+5.0
+ 21
+-2.5
+ 31
+0.0
+  0
+LINE
+  5
+D9
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-5.0
+ 20
+-5.0
+ 30
+0.0
+ 11
+5.0
+ 21
+-5.0
+ 31
+0.0
+  0
+LINE
+  5
+DA
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-5.0
+ 20
+-2.5
+ 30
+0.0
+ 11
+-5.0
+ 21
+-5.0
+ 31
+0.0
+  0
+LINE
+  5
+DB
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-15.0
+ 20
+-2.5
+ 30
+0.0
+ 11
+-5.0
+ 21
+-2.5
+ 31
+0.0
+  0
+LINE
+  5
+DC
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-15.0
+ 20
+-5.0
+ 30
+0.0
+ 11
+-15.0
+ 21
+-2.5
+ 31
+0.0
+  0
+LINE
+  5
+DD
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-25.0
+ 20
+-5.0
+ 30
+0.0
+ 11
+-15.0
+ 21
+-5.0
+ 31
+0.0
+  0
+LINE
+  5
+DE
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-25.0
+ 20
+-2.5
+ 30
+0.0
+ 11
+-25.0
+ 21
+-5.0
+ 31
+0.0
+  0
+LINE
+  5
+DF
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-35.0
+ 20
+-2.5
+ 30
+0.0
+ 11
+-25.0
+ 21
+-2.5
+ 31
+0.0
+  0
+LINE
+  5
+E0
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-35.0
+ 20
+-5.0
+ 30
+0.0
+ 11
+-35.0
+ 21
+-2.5
+ 31
+0.0
+  0
+LINE
+  5
+E1
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-45.0
+ 20
+-5.0
+ 30
+0.0
+ 11
+-35.0
+ 21
+-5.0
+ 31
+0.0
+  0
+LINE
+  5
+E2
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-45.0
+ 20
+-2.5
+ 30
+0.0
+ 11
+-45.0
+ 21
+-5.0
+ 31
+0.0
+  0
+LINE
+  5
+E3
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-55.0
+ 20
+-2.5
+ 30
+0.0
+ 11
+-45.0
+ 21
+-2.5
+ 31
+0.0
+  0
+LINE
+  5
+E4
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-55.0
+ 20
+-5.0
+ 30
+0.0
+ 11
+-55.0
+ 21
+-2.5
+ 31
+0.0
+  0
+LINE
+  5
+E5
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-65.0
+ 20
+-5.0
+ 30
+0.0
+ 11
+-55.0
+ 21
+-5.0
+ 31
+0.0
+  0
+LINE
+  5
+E6
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-65.0
+ 20
+-2.5
+ 30
+0.0
+ 11
+-65.0
+ 21
+-5.0
+ 31
+0.0
+  0
+LINE
+  5
+E7
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-67.0
+ 20
+-2.5
+ 30
+0.0
+ 11
+-65.0
+ 21
+-2.5
+ 31
+0.0
+  0
+LINE
+  5
+E8
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+-67.0
+ 20
+2.5
+ 30
+0.0
+ 11
+-67.0
+ 21
+-2.5
+ 31
+0.0
+  0
+LINE
+  5
+E9
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+67.0
+ 20
+-2.5
+ 30
+0.0
+ 11
+67.0
+ 21
+2.5
+ 31
+0.0
+  0
+LINE
+  5
+EA
+330
+1F
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    25
+100
+AcDbLine
+ 10
+67.0
+ 20
+2.5
+ 30
+0.0
+ 11
+65.0
+ 21
+2.5
+ 31
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+     1
+  3
+ACAD_GROUP
+350
+D
+  3
+ACAD_LAYOUT
+350
+1A
+  3
+ACAD_MLINESTYLE
+350
+17
+  3
+ACAD_PLOTSETTINGS
+350
+19
+  3
+ACAD_PLOTSTYLENAME
+350
+E
+  3
+ACAD_SCALELIST
+350
+47
+  0
+DICTIONARY
+  5
+D
+102
+{ACAD_REACTORS
+330
+C
+102
 }
-Text13{&Arial8}License AgreementLine12Line3Text14{&MSSansSerif8}You must accept with the license agreement below to proceed.Start_Installation_DialogInstallNowText50Text51{&MSSansSerif8}Click the Back button to reenter the installation information or click Cancel to exit the wizard.Line29Text244{&MSSansSerif8}Click Next to begin installation.Text26{&Arial8}Ready to Modify the ApplicationText2512{&Arial8}Ready to Repair the ApplicationText251{&Arial8}Ready to Install the ApplicationText2513{&Arial8}Ready to Resume [ProductName] installationLine5Installation WizardActionProgress95ProgressBarText27{&Arial8}Updating SystemTimeRemainingText28{&MSSansSerif8}The features you selected are currently being installed.Line43Line7Text57{&MSSansSerif8}The features you selected are currently being uninstalled.OK{&MSSansSerif8}FinishPushButton1{&Arial14}[ProductName] has been successfully installed.Line11Text56{&Arial14}[ProductName] has been successfully uninstalled.Text6{&MSSansSerif8}Click the Finish button to exit this installation.{&MSSansSerif8}OK{&MSSansSerif8}[ProductName] was interrupted before your new software was fully installed.  You can rerun this installation at another time to complete the setup of this software.WaitForCostingTextMessage{&MSSansSerif8}Please wait while the installer determines your disk space requirements...Single_Feature_DestinationText42{&MSSansSerif8}Setup will install the files for [ProductName] in the following folder.
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+1A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Layout1
+350
+1E
+  3
+Layout2
+350
+26
+  3
+Model
+350
+22
+  0
+DICTIONARY
+  5
+17
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+18
+  0
+DICTIONARY
+  5
+19
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+ACDBDICTIONARYWDFLT
+  5
+E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Normal
+350
+F
+100
+AcDbDictionaryWithDefault
+340
+F
+  0
+DICTIONARY
+  5
+47
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+A0
+350
+48
+  3
+A1
+350
+49
+  3
+A2
+350
+4A
+  3
+A3
+350
+4B
+  3
+A4
+350
+4C
+  3
+A5
+350
+4D
+  3
+A6
+350
+4E
+  3
+A7
+350
+4F
+  3
+A8
+350
+50
+  3
+A9
+350
+51
+  3
+B0
+350
+52
+  3
+B1
+350
+53
+  3
+B2
+350
+54
+  3
+B3
+350
+55
+  3
+B4
+350
+56
+  3
+B5
+350
+57
+  3
+B6
+350
+58
+  3
+B7
+350
+59
+  3
+B8
+350
+5A
+  3
+B9
+350
+5B
+  3
+C0
+350
+5C
+  3
+C1
+350
+5D
+  3
+C2
+350
+5E
+  3
+C3
+350
+5F
+  3
+C4
+350
+60
+  3
+C5
+350
+61
+  3
+C6
+350
+62
+  3
+C7
+350
+63
+  3
+C8
+350
+64
+  3
+C9
+350
+65
+  3
+D0
+350
+66
+  3
+D1
+350
+67
+  3
+D2
+350
+68
+  0
+LAYOUT
+  5
+1E
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
 
-To install into a different folder, click the Browse button, and select another folder.Text43INSTALLDIR[INSTALLDIR]Text47Text19{&MSSansSerif8}Select a folder where the application will be installed.{&MSSansSerif8}LabVIEW FolderText18{&Arial8}Destination FolderText42a{&MSSansSerif8}You can choose not to install [ProductName] by clicking Cancel to exit the Installation Wizard.PushButton44Line17User_Information_DialogNameQ{&MSSansSerif8}Full N&ame:NameEEditUSERNAME{47}OrgQ{&MSSansSerif8}&Organization:OrgECOMPANYNAME{53}PIDQ{&MSSansSerif8}Product &ID:PIDEMaskedEditPIDKEY[PIDTemplate]Text8{&MSSansSerif8}The settings for this application can be installed for the current user or for all users that share this computer. You must have administrator rights to install the settings for all users. Install this application for:InstallMode.AF641800.09  = "Custom" AND NOT Installed AND NOT RESUME AND NOT PreselectedText16{&Arial8}User InformationLine15Text46Line4Text7{&MSSansSerif8}Enter the following information to personalize your installation.No{&MSSansSerif8}&ResumeYes{&MSSansSerif8}&Exit Setup{&MSSansSerif8}Installation is not complete.  If you quit the setup program now, the application will not be installed.
+  2
+none_device
+  4
 
-You can run the setup program at a later time to complete the installation.Text2515{&MSSansSerif8}To continue installing, click Resume.  To quit the setup program, click Exit Setup.AdminInstallBrowseTailText{&MSSansSerif8}&Selected path:TailPathEditTARGETDIRComboText{&MSSansSerif8}&Location of folder:ComboDirectoryComboNewFolderListDirectoryListResume_Install_Dialog{&MSSansSerif8}Are you ready to continue the installation?{&MSSansSerif8}Are you ready to complete your suspended installation?Text31{&Arial14}Resuming the [ProductName] SetupMaintenance_Welcome_DialogSomethingElse1MaintenanceModeLine402TypicalText7{&MSSansSerif8}Uninstall [ProductName] from this computer.Icon30Icon{&MSSansSerif8}Select the maintenance operation to perform.Icon29Line426Text52CustomText5{&MSSansSerif8}Reinstall missing or corrupt files, registry keys, and shortcuts.  Preferences stored in the registry may be reset to default values.Line8Text3{&Arial8}Application MaintenanceIcon8Line39CompleteText3{&MSSansSerif8}Change which application features are installed.  Displays the Select Features dialog, which lets you configure individual features.Line414{&MSSansSerif8}Installation ended prematurely because of an error.{&MSSansSerif8}&Folder name:{&MSSansSerif8}&Look in:{&MSSansSerif8}Please wait while the Setup prepares the Windows Installer.Line2Text15EditQ{&MSSansSerif8}Network &installation point:Back{&MSSansSerif8}Where would you like to create your installation?Text54Text36{&Arial8}Admin InstallationLine34Line35{&MSSansSerif8}The current selections require the following amount of disk space on the different volumes. The highlighted volumes do not have enough disk space available for the currently selected features.VolumeCostListErrorDialogErrorText{&MSSansSerif8}&YesA{&MSSansSerif8}&AbortCI{&MSSansSerif8}&Ignore{&MSSansSerif8}&NoO{&MSSansSerif8}&OKR{&MSSansSerif8}&RetryPictureFilesInUseRetryIgnore{&MSSansSerif8}Files that need to be updated are in use.FileInUseProcessExit{&MSSansSerif8}&ExitBitmap62Text60{&MSSansSerif8}Listed below are busy files followed by the application that's using the file. Close the application and click Retry, or click Ignore to replace the files after a reboot. Clicking Exit quits the installation.Line59Line45Text58{&Arial8}Files In UseReinstallMode{&MSSansSerif8}&Repair all detected reinstall problems{&MSSansSerif8}Reinstall only if file is missing{&MSSansSerif8}Reinstall if file is missing, or an older version exists{&MSSansSerif8}Reinstall if file is missing, or an older or equal version existsReinstallFileExact{&MSSansSerif8}Reinstall if existing file has a different version{&MSSansSerif8}Reinstall if EXE or DLL has an invalid checksumReinstallFileForce{&MSSansSerif8}&Force all files to be reinstalled, regardless of checksum or version{&MSSansSerif8}Verify that required &user registry entries are present{&MSSansSerif8}Verify that required local &machine registry entries are present{&MSSansSerif8}Validate shortcutsFirstRun{\TimesItalicBlue10}N&ame:{\TimesItalicBlue10}&Organization:{\TimesItalicBlue10}Please, enter the product &ID found on your CD box.OutOfDisk{&MSSansSerif8}Out of disk space. The highlighted volumes do not have enough disk space available for the selected features.Admin_Verify_Ready{&MSSansSerif8}Are you ready to install?Line1Text37{&Arial8}Admin Installation Verify ReadyText55Verify_Remove_AllRemoveNow{&MSSansSerif8}This will remove [ProductName] from your machine. Are you sure you want to continue?
+  6
 
-Click the Next button to remove the application.
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     1
+ 73
+     0
+ 74
+     5
+  7
 
-Click the Cancel button to exit the uninstall process.Text32{&Arial14}[ProductName] UninstallLine9Readme_Dialog{&MSSansSerif8}The following information describes this installation.Text45{&Arial8}Readme InformationHideInstalledEnableAccept.AF641800.09 <> "Yes"DefaultDisableApplicationUsers.AF641800.09 = "AllUsers" AND PrivilegedNot Installed OR MaintenanceMode <> "Modify"Not Installed OR MaintenanceMode <> "Repair"  OR RESUMEInstalled OR RESUMENOT RESUMEWiseUninstallNOT WiseUninstall1ProductID = "none"NOT Privileged OR Version9XRESUMEShowProductIDNewDialogNOT RESUME AND ProductID AND PreselectedNOT RESUME AND ProductID AND NOT PreselectedSpawnDialogSelectionBrowseSpawnWaitDialogCostingComplete = 1OutOfDiskSpace = 1OutOfDiskSpace <> 1NOT Installed0ReinstallALLMaintenanceMode="Repair"EndDialogReturnInstallMode.AF641800.09  <> "Custom" AND NOT Installed AND NOT RESUME AND NOT PreselectedInstalled AND MaintenanceMode="Modify"NOT Installed AND NOT RESUME AND PreselectedNOT Installed AND RESUMEInstallMode.AF641800.09 = "Custom"Installed AND MaintenanceMode = "Repair"InstallMode.AF641800.09 <> "Custom"CAAAAA.AF641800.09[_BrowseProperty]ValidateProductIDProductID <> "none"ProductID AND PreselectedProductID AND NOT Preselected[ALLUSERS]ApplicationUsers.AF641800.09 <> "AllUsers" OR NOT Privileged{}InstallMode.AF641800.09SetTargetPathDirectoryListUpDirectoryListNewMaintenanceMode = "Modify"MaintenanceMode = "Repair"MaintenanceMode = "Remove"ocmusBaseBrowseNOT BaseBrowseErrorYesErrorAbortErrorCancelErrorIgnoreErrorNoErrorOkErrorRetry[REINSTALLMODE]ApplicationUsers.AF641800.09[WiseUninstall][ProductName]Fatal Error[ProductName] Reinstall Mode Dialog[ProductName] Identity DialogAAAAAA.AF641800.096jkpihgb|ProvidersAF641800.09eminjesw|FrameworkLV2018DIR64resource.SourceDir{{Fatal error: }}Error [1].  Warning [1].  Info [1].  Internal Error [1]. [2]{, [3]}{, [4]}{{Disk full: }}Action [Time]: [1]. [2]{[2]}{, [3]}{, [4]}Message type: [1], Argument: [2]=== Logging started: [Date]  [Time] ====== Logging stopped: [Date]  [Time] ===Action start [Time]: [1].Action ended [Time]: [1]. Return value [2].Time remaining: {[1] minutes }{[2] seconds}Out of memory. Shut down other applications before retrying.Installer is no longer responding.Installer terminated prematurely.Please wait while Windows configures [ProductName]Gathering required information...{[ProductName] }Setup completed successfully.{[ProductName] }Setup failed.A later version of this product already is installed on this computer.Error reading from file: [2]. {{ System error [3].}}  Verify that the file exists and that you can access it.Cannot create the file '[2]'.  A directory with this name already exists.  Cancel the install and try installing to a different location.Please insert the disk: [2]The installer has insufficient privileges to access this directory: [2].  The installation cannot continue.  Log on as administrator or contact your system administrator.Error writing to file: [2].  Verify that you have access to that directory.Error reading from file: [2].  Verify that the file exists and that you can access it.Another application has exclusive access to the file '[2]'.  Please shut down all other applications, then click Retry.There is not enough disk space to install this file: [2].  Free some disk space and click Retry, or click Cancel to exit.Source file not found: [2].  Verify that the file exists and that you can access it.Error reading from file: [3]. {{ System error [2].}}  Verify that the file exists and that you can access it.Error writing to file: [3]. {{ System error [2].}}  Verify that you have access to that directory.Source file not found{{(cabinet)}}: [2].  Verify that the file exists and that you can access it.Cannot create the directory '[2]'.  A file with this name already exists.  Please rename or remove the file and click retry, or click Cancel to exit.The volume [2] is currently unavailable.  Please select another.The specified path '[2]' is unavailable.Unable to write to the specified folder: [2].A network error occurred while attempting to read from the file: [2]An error occurred while attempting to create the directory: [2]A network error occurred while attempting to create the directory: [2]A network error occurred while attempting to open the source file cabinet: [2]The specified path is too long: [2]The Installer has insufficient privileges to modify this file: [2].A portion of the folder path '[2]' exceeds the length allowed by the system.The folder path '[2]' contains words that are not valid in folder paths.The folder path '[2]' contains an invalid character.'[2]' is not a valid short file name.Error getting file security: [3] GetLastError: [2]Invalid Drive: [2]Could not create key: [2]. {{ System error [3].}}  Verify that you have sufficient access to that key, or contact your support personnel. Could not open key: [2]. {{ System error [3].}}  Verify that you have sufficient access to that key, or contact your support personnel. Could not delete value [2] from key [3]. {{ System error [4].}}  Verify that you have sufficient access to that key, or contact your support personnel. Could not delete key [2]. {{ System error [3].}}  Verify that you have sufficient access to that key, or contact your support personnel. Could not read value [2] from key [3]. {{ System error [4].}}  Verify that you have sufficient access to that key, or contact your support personnel. Could not write value [2] to key [3]. {{ System error [4].}}  Verify that you have sufficient access to that key, or contact your support personnel.Could not get value names for key [2]. {{ System error [3].}}  Verify that you have sufficient access to that key, or contact your support personnel.Could not get sub key names for key [2]. {{ System error [3].}}  Verify that you have sufficient access to that key, or contact your support personnel.Could not read security information for key [2]. {{ System error [3].}}  Verify that you have sufficient access to that key, or contact your support personnel.Could not increase the available registry space. [2] KB of free registry space is required for the installation of this application.Another installation is in progress. You must complete that installation before continuing this one.Error accessing secured data. Please make sure the Windows installer is configured properly and try the install again.User '[2]' has previously initiated an install for product '[3]'.  That user will need to run that install again before they can use that product.  Your current install will now continue.User '[2]' has previously initiated an install for product '[3]'.  That user will need to run that install again before they can use that product.Out of disk space -- Volume: '[2]'; required space: [3] KB; available space: [4] KB.  Free some disk space and retry.Are you sure you want to cancel?The file [2][3] is being held in use{ by the following process: Name: [4], Id: [5], Window Title: '[6]'}.  Close that application and retry.The product '[2]' is already installed, preventing the installation of this product.  The two products are incompatible.Out of disk space -- Volume: '[2]'; required space: [3] KB; available space: [4] KB.  If rollback is disabled, enough space is available. Click 'Cancel' to quit, 'Retry' to check available disk space again, or 'Ignore' to continue without rollback.Could not access network location [2].The following applications should be closed before continuing the install:Could not find any previously installed compliant products on the machine for installing this product.The key [2] is not valid.  Verify that you entered the correct key.The installer must restart your system before configuration of [2] can continue.  Click Yes to restart now or No if you plan to manually restart later.You must restart your system for the configuration changes made to [2] to take effect. Click Yes to restart now or No if you plan to manually restart later.An installation for [2] is currently suspended.  You must undo the changes made by that installation to continue.  Do you want to undo those changes?A previous installation for this product is in progress.  You must undo the changes made by that installation to continue.  Do you want to undo those changes?No valid source could be found for product [2].  The Windows installer cannot continue.Installation operation completed successfully.Installation operation failed.Product: [2] -- [3]You may either restore your computer to its previous state or continue the install later. Would you like to restore?An error occurred while writing installation information to disk.  Check to make sure enough disk space is available, and click Retry, or Cancel to end the install.One or more of the files required to restore your computer to its previous state could not be found.  Restoration will not be possible.The path [2] is not valid.  Please specify a valid path.There is no disk in drive [2]. Please insert one and click Retry, or click Cancel to go back to the previously selected volume.There is no disk in drive [2]. Please insert one and click Retry, or click Cancel to return to the browse dialog and select a different volume.The folder [2] does not exist.  Please enter a path to an existing folder.You have insufficient privileges to read this folder.A valid destination folder for the install could not be determined.Error attempting to read from the source install database: [2].Scheduling reboot operation: Renaming file [2] to [3]. Must reboot to complete operation.Scheduling reboot operation: Deleting file [2]. Must reboot to complete operation.Module [2] failed to register.  HRESULT [3].  Contact your support personnel.Module [2] failed to unregister.  HRESULT [3].  Contact your support personnel.Failed to cache package [2]. Error: [3]. Contact your support personnel.Could not register font [2].  Verify that you that you have sufficient permissions to install fonts, and that the system supports this font.Could not unregister font [2]. Verify that you that you have sufficient permissions to remove fonts.Could not create Shortcut [2]. Verify that the destination folder exists and that you can access it.Could not remove Shortcut [2]. Verify that the shortcut file exists and that you can access it.Could not register type library for file [2].  Contact your support personnel.Could not unregister type library for file [2].  Contact your support personnel.Could not update the ini file [2][3].  Verify that the file exists and that you can access it.Could not schedule file [2] to replace file [3] on reboot.  Verify that you have write permissions to file [3].Error removing ODBC driver manager, ODBC error [2]: [3]. Contact your support personnel.Error installing ODBC driver manager, ODBC error [2]: [3]. Contact your support personnel.Error removing ODBC driver: [4], ODBC error [2]: [3]. Verify that you have sufficient privileges to remove ODBC drivers.Error installing ODBC driver: [4], ODBC error [2]: [3]. Verify that the file [4] exists and that you can access it.Error configuring ODBC data source: [4], ODBC error [2]: [3]. Verify that the file [4] exists and that you can access it.Service '[2]' ([3]) failed to start.  Verify that you have sufficient privileges to start system services.Service '[2]' ([3]) could not be stopped.  Verify that you have sufficient privileges to stop system services.Service '[2]' ([3]) could not be deleted.  Verify that you have sufficient privileges to remove system services.Service '[2]' ([3]) could not be installed.  Verify that you have sufficient privileges to install system services.Could not update environment variable '[2]'.  Verify that you have sufficient privileges to modify environment variables.You do not have sufficient privileges to complete this installation for all users of the machine.  Log on as administrator and then retry this installation.Could not set file security for file '[3]'. Error: [2].  Verify that you have sufficient priviliges to modify the security permissions for this file.SelectionNoItemsEnabledSelectionDescriptionSelectionActionSelectionSizeSelectionPathSelectionPathOnVisibleSetProgressProgressIgnoreChangeAF64L00_downgrade_check.AF641800.09AssistantFramework64_LV2018g48zsoyh.mxx|mxwProjectProvider.mxx18.0.0.30001033lnwa22vx.mxx|mxwProjectProvider.mxxlicFindRelatedProductsRemoveExistingProductsMigrateFeatureStatesInstalled AND (RESUME OR Preselected) AND NOT PATCHInstalled AND NOT RESUME AND NOT Preselected AND NOT PATCHPrivilegedThis installation must be performed by a user with local system administrative privileges.NOT VersionNT64AF64L00.cabHAAAAA.5C958DF3_0DA4_4371_BC9F_99AE2D8C78AFUninstaller    [NI Assistant Framework 64-bit LabVIEW 2018 Support (Feature = AssistantFramework64_LV2018)IAAAAA.5C958DF3_0DA4_4371_BC9F_99AE2D8C78AFMDF    [NI Assistant Framework 64-bit LabVIEW 2018 Support (Feature = AssistantFramework64_LV2018)]{5B0CB826-E499-4E6B-94F0-75B6327ED934}{BE400A3D-E9D6-48D9-AF14-337722A11D40}DefaultUIFontArial10WiseInitPrefix.AF641800.09noneNIPROD64BITOSEXC.AF641800.09AllUsers_WiseDialogTitleFontDefault.AF641800.09InitializingWiseInitAdminError.AF641800.09{&Arial8}INSTALLLEVEL1000_WiseDebugMode.AF641800.09You must have administrator rights to run this installation. Please login as an administrator and re-run this installation.ModifyWiseInitSpaceError.AF641800.09WiseInitSuffix.AF641800.09Could not create temporary file, not enough free temporary disk space. Please free up disk space and rerun this installation.ReinstallFileVersion.AF641800.09Wizard...WiseInitExistError.AF641800.09NIARPVISIBLE.AF641800.09%s Version %s is already installed. You must uninstall the existing version before installing %s Version %s. Do you want to uninstall the existing version of %s?_WiseDialogFontDefaultPIDTemplate12345<###-%%%%%%%>@@@@@PROMPTROLLBACKCOSTPNIUpdateProductCode{59729F00-C3C3-4760-AD2B-7948B630717A}NIUpdateProductVersion18.0.0NISxSHIGHERVERSIONDETECTED.AF641800.09ManufacturerNational InstrumentsProductCode{7B4805D9-C19F-4A6B-95D0-55AEF7117219}ProductLanguage9NI Assistant Framework 64-bit LabVIEW 2018 SupportProductVersion18.00.49152{6A9BBCE7-5483-45A2-8118-8F7DD4B6BB60}SecureCustomPropertiesNIUniquifyVersion{\Tahoma10}&Advertise{\Tahoma10}&Do not advertiseTypical{&Arial8}&TypicalComplete{&Arial8}&Complete{&Arial8}C&ustom{&MSSansSerif8}I &do not accept the license agreement{&MSSansSerif8}I &accept the license agreement{&MSSansSerif8}&Anyone who uses this computerOnlyCurrentUser{&MSSansSerif8}Only for &me ([USERNAME]){&Arial8}&ModifyRepair{&Arial8}&Repair{&Arial8}R&emoveArial8ArialMSSansSerif10MS Sans SerifArialBlueStrike10Arial9Arial13CourierBoldGreen12Courier NewArial14Times9Times New RomanArial12TimesItalic12TimesRed16MSSansSerif8TimesItalicBlue10TimesNew RomanMS_Sans_Serif8Tahoma15TahomaTahoma10Arial141AbsentPathbytesGBKBMBMenuAbsentEntire feature will be unavailableMenuCDWill be installed to run from CDMenuLocalWill be installed on local hard driveMenuNetworkWill be installed to run from networkFldr|New FolderSelAbsentAbsentThis feature will remain uninstalledSelAbsentCDThis feature will be installed to run from CDSelAbsentLocalThis feature will be installed on the local hard driveSelAbsentNetworkThis feature will be installed to run from the networkSelCDAbsentThis feature will be uninstalled completely, you won't be able to run it from CDSelCDCDThis feature will remain to be run from CDSelCDLocalThis feature will change from run from CD state to be installed on the local hard driveSelChildCostNegThis feature frees up [1] on your hard drive.SelChildCostPosThis feature requires [1] on your hard drive.SelLocalAbsentThis feature will be completely removedSelLocalCDThis feature will be removed from your local hard drive, but will be still available to run from CDSelLocalLocalThis feature will remain on your local hard driveSelLocalNetworkThis feature will be removed from your local hard drive, but will be still available to run from the networkSelNetworkAbsentThis feature will be uninstalled completely, you won't be able to run it from the networkSelNetworkLocalThis feature will change from run from network state to be installed on the local hard driveSelNetworkNetworkThis feature will remain to be run from the networkSelParentCostNegNegThis feature frees up [1] on your hard drive. It has [2] of [3] subfeatures selected. The subfeatures free up [4] on your hard drive.SelParentCostNegPosThis feature frees up [1] on your hard drive. It has [2] of [3] subfeatures selected. The subfeatures require [4] on your hard drive.SelParentCostPosNegThis feature requires [1] on your hard drive. It has [2] of [3] subfeatures selected. The subfeatures free up [4] on your hard drive.SelParentCostPosPosThis feature requires [1] on your hard drive. It has [2] of [3] subfeatures selected. The subfeatures require [4] on your hard drive.VolumeCostAvailableAvailableVolumeCostDifferenceDifferenceVolumeCostRequiredRequiredVolumeCostSizeDisk SizeVolumeCostVolumeVolumeSelNetworkAdvertiseThis feature will change from run from network state to set to be installed when requiredSelLocalAdvertiseThis feature will be removed from your local hard drive, but will be set to be installed when requiredSelCostPendingCompiling cost for this feature...SelCDAdvertiseThis feature will change from run from CD state to set to be installed when requiredSelAdvertiseNetworkThis feature will be available to run from the networkSelAdvertiseLocalThis feature will be installed on your local hard driveSelAdvertiseCDThis feature will be available to run from CDSelAdvertiseAdvertiseWill be installed when requiredSelAdvertiseAbsentThis feature will become unavailableSelAbsentAdvertiseThis feature will be set to be installed when requiredMenuAllNetworkEntire feature will be installed to run from networkMenuAllLocalEntire feature will be installed on local hard driveMenuAllCDEntire feature will be installed to run from CDScriptInProgressMenuAdvertiseFeature will be installed when requiredModuleSignatureModuleID18.0nimetautils.91D5760B_F9E8_4332_BFB1_38A4CB799A3EWindowsFolder.:WINDOW~1|WindowsFolder.:PROGRA~2|ProgramFiles64FolderProgramFiles64Folder.:COMMON~3|CommonAppDataFolderCommonAppDataFolder.:COMMON~2|CommonFiles64FolderCommonFiles64Folder.:PROGRA~1|ProgramFilesFolderProgramFilesFolder.:COMMON~1|CommonFilesFolderCommonFilesFolderNot NIDISABLENIPATHSNIPaths2.91D5760B_F9E8_4332_BFB1_38A4CB799A3ENot NIDISABLENIPATHS AND Not NIRUNNINGINMERGEDNIMUProcessNIPathsEnvironmentTable.91D5760B_F9E8_4332_BFB1_38A4CB799A3ENot NIDISABLENIMU AND Not NIRUNNINGINMERGEDNIMUPersistPartRegInfo.91D5760B_F9E8_4332_BFB1_38A4CB799A3ENot NIDISABLENIMU AND NIMETALAUNCHEDNIMUFeature.91D5760B_F9E8_4332_BFB1_38A4CB799A3E(NOT NIDISABLENIMU) AND (NOT REINSTALL~="ALL") AND (REINSTALL)NIMUSetReinstallProperty.91D5760B_F9E8_4332_BFB1_38A4CB799A3E(Not NIDISABLENIMU) AND (NOT REINSTALL) AND NIMETALAUNCHEDNIMUEvaluateNIConditionColumns.91D5760B_F9E8_4332_BFB1_38A4CB799A3ENot InstalledNIFindRelatedProducts.91D5760B_F9E8_4332_BFB1_38A4CB799A3E(VersionNT = 602) AND (Not NIDISABLETILECLEANUP) AND (Not NIRUNNINGINMERGED)NIMUManageWin8InstallTiles.91D5760B_F9E8_4332_BFB1_38A4CB799A3E(Not REMOVE="ALL") AND Not NIRUNNINGINMERGED AND Not NIDISABLEFOLDERLOCKFIXNIPreventNVIDIAFolderLock.91D5760B_F9E8_4332_BFB1_38A4CB799A3ENot NIDISABLENIMUSETPERMISSIONS AND NOT NIRUNNINGINMERGEDNIMUSetPermissionsPreinstall.91D5760B_F9E8_4332_BFB1_38A4CB799A3E0NIPreventFolderLock AND Not NIDISABLEFOLDERLOCKFIXNICleanUpNVIDIAFolderLock.91D5760B_F9E8_4332_BFB1_38A4CB799A3ENot NIDISABLENIMUSETPERMISSIONSNIMUSetPermissions.91D5760B_F9E8_4332_BFB1_38A4CB799A3E0NIMetaUtilsCA.91D5760B_F9E8_4332_BFB1_38A4CB799A3ENIPaths.91D5760B_F9E8_4332_BFB1_38A4CB799A3ECustomActionTargetNIFindRelatedProductsNIMUEnsureCorrectFeatureStateNIMUPersistPartRegInfo[REINSTALL],[NIMUMainFeatureName.91D5760B_F9E8_4332_BFB1_38A4CB799A3E]REINSTALLNIMUSetPermissionsNIMUEvaluateNIConditionColumnsNIPathsNIPreventNVIDIAFolderLockNIMUProcessNIPathsEnvironmentTableNIMUManageWin8InstallTilesNICleanUpNVIDIAFolderLockModuleComponents3/6/2018 11:37:26 AMNIBuildDate.NIMetaUtilsCA.91D5760B_F9E8_4332_BFB1_38A4CB799A3E18.0.0.188NIVersion.NIMe
+ 75
+    16
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout1
+ 70
+     1
+ 71
+     1
+ 10
+0.0
+ 20
+0.0
+ 11
+420.0
+ 21
+297.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+1.0000000000E+20
+ 24
+1.0000000000E+20
+ 34
+1.0000000000E+20
+ 15
+-1.0000000000E+20
+ 25
+-1.0000000000E+20
+ 35
+-1.0000000000E+20
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1B
+  0
+LAYOUT
+  5
+26
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     1
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout2
+ 70
+     1
+ 71
+     2
+ 10
+0.0
+ 20
+0.0
+ 11
+0.0
+ 21
+0.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+23
+  0
+LAYOUT
+  5
+22
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+ANSI_A_(11.00_x_8.50_Inches)
+  6
+
+ 40
+6.35
+ 41
+19.05
+ 42
+6.35000508
+ 43
+19.05000254
+ 44
+279.4
+ 45
+215.9
+ 46
+133.34999746
+ 47
+88.89999873
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+0.0812686567
+143
+1.0
+ 70
+  1696
+ 72
+     0
+ 73
+     0
+ 74
+     0
+  7
+
+ 75
+     0
+147
+0.0179189148
+148
+-1300.4909072572
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+     1
+ 71
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+420.0
+ 21
+297.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+-67.0
+ 24
+-5.0
+ 34
+0.0
+ 15
+67.0
+ 25
+5.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1F
+331
+29
+  0
+MLINESTYLE
+  5
+18
+102
+{ACAD_REACTORS
+330
+17
+102
+}
+330
+17
+100
+AcDbMlineStyle
+  2
+Standard
+ 70
+     0
+  3
+
+ 62
+   256
+ 51
+90.0
+ 52
+90.0
+ 71
+     2
+ 49
+0.5
+ 62
+   256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+   256
+  6
+BYLAYER
+  0
+ACDBPLACEHOLDER
+  5
+F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+  0
+SCALE
+  5
+48
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1:1
+140
+1.0
+141
+1.0
+290
+     1
+  0
+SCALE
+  5
+49
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1:2
+140
+1.0
+141
+2.0
+290
+     0
+  0
+SCALE
+  5
+4A
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1:4
+140
+1.0
+141
+4.0
+290
+     0
+  0
+SCALE
+  5
+4B
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1:5
+140
+1.0
+141
+5.0
+290
+     0
+  0
+SCALE
+  5
+4C
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1:8
+140
+1.0
+141
+8.0
+290
+     0
+  0
+SCALE
+  5
+4D
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1:10
+140
+1.0
+141
+10.0
+290
+     0
+  0
+SCALE
+  5
+4E
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1:16
+140
+1.0
+141
+16.0
+290
+     0
+  0
+SCALE
+  5
+4F
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1:20
+140
+1.0
+141
+20.0
+290
+     0
+  0
+SCALE
+  5
+50
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1:30
+140
+1.0
+141
+30.0
+290
+     0
+  0
+SCALE
+  5
+51
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1:40
+140
+1.0
+141
+40.0
+290
+     0
+  0
+SCALE
+  5
+52
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1:50
+140
+1.0
+141
+50.0
+290
+     0
+  0
+SCALE
+  5
+53
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1:100
+140
+1.0
+141
+100.0
+290
+     0
+  0
+SCALE
+  5
+54
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+2:1
+140
+2.0
+141
+1.0
+290
+     0
+  0
+SCALE
+  5
+55
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+4:1
+140
+4.0
+141
+1.0
+290
+     0
+  0
+SCALE
+  5
+56
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+8:1
+140
+8.0
+141
+1.0
+290
+     0
+  0
+SCALE
+  5
+57
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+10:1
+140
+10.0
+141
+1.0
+290
+     0
+  0
+SCALE
+  5
+58
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+100:1
+140
+100.0
+141
+1.0
+290
+     0
+  0
+SCALE
+  5
+59
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1/128" = 1'-0"
+140
+0.0078125
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+5A
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1/64" = 1'-0"
+140
+0.015625
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+5B
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1/32" = 1'-0"
+140
+0.03125
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+5C
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1/16" = 1'-0"
+140
+0.0625
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+5D
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+3/32" = 1'-0"
+140
+0.09375
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+5E
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1/8" = 1'-0"
+140
+0.125
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+5F
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+3/16" = 1'-0"
+140
+0.1875
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+60
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1/4" = 1'-0"
+140
+0.25
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+61
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+3/8" = 1'-0"
+140
+0.375
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+62
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1/2" = 1'-0"
+140
+0.5
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+63
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+3/4" = 1'-0"
+140
+0.75
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+64
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1" = 1'-0"
+140
+1.0
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+65
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1-1/2" = 1'-0"
+140
+1.5
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+66
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+3" = 1'-0"
+140
+3.0
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+67
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+6" = 1'-0"
+140
+6.0
+141
+12.0
+290
+     0
+  0
+SCALE
+  5
+68
+102
+{ACAD_REACTORS
+330
+47
+102
+}
+330
+47
+100
+AcDbScale
+ 70
+     0
+300
+1'-0" = 1'-0"
+140
+12.0
+141
+12.0
+290
+     0
+  0
+ENDSEC
+  0
+EOF
